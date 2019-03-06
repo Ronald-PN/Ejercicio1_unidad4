@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC-AcationLink-DiplomadoUASD", "MVC-AcationLink-DiplomadoUASD\MVC-AcationLink-DiplomadoUASD.csproj", "{D32B98B5-DA46-49A3-A3F3-E24A96A8BE1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D32B98B5-DA46-49A3-A3F3-E24A96A8BE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32B98B5-DA46-49A3-A3F3-E24A96A8BE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32B98B5-DA46-49A3-A3F3-E24A96A8BE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32B98B5-DA46-49A3-A3F3-E24A96A8BE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F73417B3-71E9-40C9-B95A-A499D54F74A3}
+	EndGlobalSection
+EndGlobal
